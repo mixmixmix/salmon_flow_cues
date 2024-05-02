@@ -1,0 +1,11 @@
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
+*.Rproj
+*.png
+*.svg
+*.eps
+.DS_Store
+.virtual_documents/
+.ipynb_checkpoints/
